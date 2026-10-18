@@ -1,0 +1,6 @@
+{
+  "name": "SANKET",
+  "description": "Rural Financial Health Intelligence Layer — Phase 2 Interactive Decision-Support Prototype for FSPs",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
